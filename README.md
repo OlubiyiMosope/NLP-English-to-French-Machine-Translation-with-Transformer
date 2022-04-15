@@ -81,16 +81,16 @@ In this project, the end-to-end Transformer model will be implemented with Tenso
 
 
 ### Examples of the Translations of the Model
-English: Tom is the one who knows what needs to be done.
+English: Tom is the one who knows what needs to be done.  
 French Translation: [start] tom est qui sache ce sait ce qui doit être fait [end]
 
-English: He was too drunk to drive home.
+English: He was too drunk to drive home.  
 French Translation: [start] il était trop tombé à [UNK] pour rentrer à la maison [end]
 
-English: She always buys expensive clothes.
+English: She always buys expensive clothes.  
 French Translation: [start] elle compte toujours que de vêtements propre [end]
 
-English: I could hardly believe my ears when I heard the news.
+English: I could hardly believe my ears when I heard the news.  
 French Translation: [start] je pouvais à peine me comprendre qui les oreilles quand je [UNK] [end]
 
 ### References
